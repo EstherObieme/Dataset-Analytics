@@ -1,4 +1,4 @@
-# Dataset-Analytics-and-Database-Construction
+# Dataset-Analytics
 ***
 This repository focuses on dataset analytics for understanding an organization's process model. Cleaning and merging processes are vital for statistical analysis with a large dataset. This repository is divided into four sections: Cleaning, Merging, Database Construction, and Analytics.
 
@@ -10,3 +10,6 @@ This repository focuses on dataset analytics for understanding an organization's
 5. Dataset Cleaning Documentation
 6. Entities Merging Documentation
 7. Database Construction Documentation
+
+####Technology Requirement Check-list
+***
