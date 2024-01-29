@@ -17,7 +17,7 @@ This repository focuses on dataset analytics for understanding an organization's
 - Excel
 
 ### Project Requirement
-** Tasks: 
+- Tasks: 
         - Cleaning:
               - Analyze the dataset, 
               - Check for duplicate data, 
