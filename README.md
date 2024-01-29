@@ -11,7 +11,7 @@ This repository focuses on dataset analytics for understanding an organization's
 6. Entities Merging Documentation
 7. Database Construction Documentation
 
-#### Technology Requirement Check-list
+### Technology Requirement Check-list
 - VS Code
 - R
 - Excel
