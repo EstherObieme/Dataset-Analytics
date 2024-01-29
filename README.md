@@ -17,13 +17,13 @@ This repository focuses on dataset analytics for understanding an organization's
 - Excel
 
 ### Project Requirement
-- Tasks: 
-        - Cleaning:
-              - Analyze the dataset, 
-              - Check for duplicate data, 
-              - Identify nulls or blanks, 
-              - Validate column names.
-        - Merging:
-              - Merge two dataset to create a Single Source of Truth (SSOT)
-        - Analytics 
-              - Summary statistics: Min, Max, Average.
+- Tasks:
+     - Cleaning:
+       - Analyze the dataset, 
+       - Check for duplicate data,
+         - Identify nulls or blanks,
+         - Validate column names.
+      - Merging:
+        - Merge two dataset to create a Single Source of Truth (SSOT)
+      - Analytics
+         - Summary statistics: Min, Max, Average.
